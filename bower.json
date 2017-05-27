@@ -1,0 +1,26 @@
+{
+  "name": "queenspark",
+  "description": "A website that displays rooms and services offered by Queenspark Guesthouse Company",
+  "main": "index.js",
+  "authors": [
+    "Eric Kirira Maranga;"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/ekirira22/queenspark",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "moment": "^2.18.1",
+    "bootstrap": "^3.3.7"
+  },
+  "resolutions": {
+    "jquery": "^3.2.1"
+  }
+}
