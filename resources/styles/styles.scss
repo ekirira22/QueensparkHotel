@@ -33,7 +33,7 @@ h1{
 }
 #welcomeimg {
     display: block;
-    background-image: url(http://imgur.com/umvoMf3);
+    background-image: url(http://i.imgur.com/umvoMf3.jpg);
     background-position:center;
     background-repeat: no-repeat;
     background-size:cover;
@@ -111,9 +111,9 @@ div#navigation{
   position: absolute;
   top : 80%;
 }
-.col-md-5{
-  border-right: 1px solid #4e4e4e;
-}
+// .col-md-5{
+//   border-right: 1px solid #4e4e4e;
+// }
 .foldUnfold {
   -webkit-animation: foldUnfold 2000ms linear both;
   animation: foldUnfold 2000ms linear both;
